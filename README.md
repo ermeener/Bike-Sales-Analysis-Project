@@ -55,9 +55,11 @@ Regional variations in bike purchases.
 
 Insert charts based on the pivot tables:
 
-Bar charts for bike purchases by age brackets.
+Column Charts for income trends
 
-Line charts for income trends.
+Line charts for bike purchases based on customer's distance.
+
+Line charts for bike purchases by age brackets.
 
 Pie charts for regional distribution.
 
